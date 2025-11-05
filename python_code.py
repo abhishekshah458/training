@@ -1,4 +1,5 @@
 a = 9
-b = 27
-sum = a + b
+b = 2
+c = 5
+sum = a + b + c
 print("The sum is", sum)
